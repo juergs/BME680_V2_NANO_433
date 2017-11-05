@@ -23,3 +23,7 @@ as a precompiled library  at them Moment fpr three 32-bit processor architecture
 The iAQ-Calculation is therefore kept as "secret", not making it possible to adapt these resistance-values to IAQ or PPM.  
 
 BME-specific code may be found at: https://github.com/BoschSensortec
+
+Breakout-Board:
+https://www.amazon.de/BlueDot-BME680-Sensor-f%C3%BCr-Arduino/dp/B075Y21H24
+
