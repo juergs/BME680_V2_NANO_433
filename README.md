@@ -1,6 +1,6 @@
 # BME680_V2_NANO_433
 
-Introducing BOSCH sensortec BME680 sensor.
+Introducing BOSCH sensortec BME680 sensor to FHEM (https://fhem.de/commandref.html#intro).
 
 This sensor includes 4 measument Temperatur, Humidity, Air-Pressure and CO2 relative resitance.
 
